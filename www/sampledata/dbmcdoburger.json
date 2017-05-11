@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "title": "Mc Fish",
+        "image": "sampledata/img/Burgers/mcdo/mcfish.png",
+        "sucre_rapide": 7.9,
+        "sucre_lent": 31.1
+	},
+    {
+        "id": 2,
+        "title": "Filet O Fish",
+        "image": "sampledata/img/Burgers/mcdo/filetofish.png",
+        "sucre_rapide": 4.8,
+        "sucre_lent": 32.2
+	},
+    {
+        "id": 3,
+        "title": "Croque McDo",
+        "image": "sampledata/img/Burgers/mcdo/croquemcdo.png",
+        "sucre_rapide": 5.2,
+        "sucre_lent": 21.8
+	},
+    {
+        "id": 4,
+        "title": "Cheeseburger",
+        "image": "sampledata/img/Burgers/mcdo/cheeseburger.png",
+        "sucre_rapide": 6.9,
+        "sucre_lent": 24.1
+	},
+    {
+        "id": 5,
+        "title": "Hamburger",
+        "image": "sampledata/img/Burgers/mcdo/hamburger.png",
+        "sucre_rapide": 6.4,
+        "sucre_lent": 33.6
+	},
+    {
+        "id": 6,
+        "title": "Ptit Ranch",
+        "image": "sampledata/img/Burgers/mcdo/ptitranch.png",
+        "sucre_rapide": 3,
+        "sucre_lent": 26
+	},
+    {
+        "id": 7,
+        "title": "Ptit Hot Dog",
+        "image": "sampledata/img/Burgers/mcdo/ptithotdog.png",
+        "sucre_rapide": 8,
+        "sucre_lent": 18
+	},
+    {
+        "id": 8,
+        "title": "Ptit Campagne",
+        "image": "sampledata/img/Burgers/mcdo/ptitcampagne.png",
+        "sucre_rapide": 2,
+        "sucre_lent": 30
+	},
+    {
+        "id": 9,
+        "title": "McWrap Poulet Bacon",
+        "image": "sampledata/img/Burgers/mcdo/mcwrappouletbacon.png",
+        "sucre_rapide": 5,
+        "sucre_lent": 48
+	},
+    {
+        "id": 10,
+        "title": "McWrap Poulet Crudites",
+        "image": "sampledata/img/Burgers/mcdo/mcwrappouletcrudites.png",
+        "sucre_rapide": 4,
+        "sucre_lent": 49
+	},
+    {
+        "id": 11,
+        "title": "McWrap Chevre",
+        "image": "sampledata/img/Burgers/mcdo/mcwrapchevre.png",
+        "sucre_rapide": 4,
+        "sucre_lent": 54
+	},
+    {
+        "id": 12,
+        "title": "Poisson Ranch",
+        "image": "sampledata/img/Burgers/mcdo/poissonranch.png",
+        "sucre_rapide": 7,
+        "sucre_lent": 36
+	},
+    {
+        "id": 13,
+        "title": "Poulet Ranch Ketchup",
+        "image": "sampledata/img/Burgers/mcdo/pouletranchketchup.png",
+        "sucre_rapide": 9.8,
+        "sucre_lent": 38.2
+	},
+    {
+        "id": 14,
+        "title": "Boeuf Ranch Moutarde",
+        "image": "sampledata/img/Burgers/mcdo/boeufranchmoutarde.png",
+        "sucre_rapide": 6.2,
+        "sucre_lent": 25.8
+	},
+    {
+        "id": 15,
+        "title": "Mc Chicken",
+        "image": "sampledata/img/Burgers/mcdo/mcchicken.png",
+        "sucre_rapide": 6.4,
+        "sucre_lent": 38.6
+	},
+    {
+        "id": 16,
+        "title": "Royal Cheese",
+        "image": "sampledata/img/Burgers/mcdo/royalcheese.png",
+        "sucre_rapide": 9.5,
+        "sucre_lent": 27.5
+	},
+    {
+        "id": 17,
+        "title": "Royal Bacon",
+        "image": "sampledata/img/Burgers/mcdo/royalbacon.png",
+        "sucre_rapide": 8,
+        "sucre_lent": 26
+	},
+    {
+        "id": 18,
+        "title": "Royal Deluxe",
+        "image": "sampledata/img/Burgers/mcdo/royaldeluxe.png",
+        "sucre_rapide": 7,
+        "sucre_lent": 26
+	},
+    {
+        "id": 19,
+        "title": "Big Mac",
+        "image": "sampledata/img/Burgers/mcdo/bigmac.png",
+        "sucre_rapide": 8.5,
+        "sucre_lent": 33.5
+	},
+    {
+        "id": 20,
+        "title": "Double Cheese",
+        "image": "sampledata/img/Burgers/mcdo/doublecheese.png",
+        "sucre_rapide": 7.4,
+        "sucre_lent": 24.6
+	},
+    {
+        "id": 21,
+        "title": "280 Recette au Gruyere de France IGP",
+        "image": "sampledata/img/Burgers/mcdo/280gruyerefrance.png",
+        "sucre_rapide": 2,
+        "sucre_lent": 50
+	},
+    {
+        "id": 22,
+        "title": "280 Original",
+        "image": "sampledata/img/Burgers/mcdo/280original.png",
+        "sucre_rapide": 6,
+        "sucre_lent": 49
+	},
+    {
+        "id": 23,
+        "title": "Triple Cheeseburger",
+        "image": "sampledata/img/Burgers/mcdo/triplecheeseburger.png",
+        "sucre_rapide": 8,
+        "sucre_lent": 24
+	},
+    {
+        "id": 24,
+        "title": "Grand Premium Poulet",
+        "image": "sampledata/img/Burgers/mcdo/grandpremiumpoulet.png",
+        "sucre_rapide": 13,
+        "sucre_lent": 33
+	}
+]

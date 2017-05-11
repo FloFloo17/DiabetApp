@@ -1,0 +1,100 @@
+    <ion-header-bar class="bar bar-deepblue bar-deepblue-borderbottom"> 
+      <button ui-sref="enseignes" class="button button-clear button-deepblue-white"> 
+        <i class="white-color ion-arrow-left-c"></i> 
+      </button> 
+      <h2 class="title">Quick</h2>
+      <button ui-sref="listRepas" class="button button-clear icon ion-android-restaurant white-color">
+        <span ng-show="cart.products.length" class="cart-badge ng-hide">{{cart.products.length}}</span>
+      </button>
+    </ion-header-bar> 
+
+    <ion-view class="wrapper">
+      <div class="tabs-striped tabs-color-assertive" style="position: static;">
+        <ion-scroll direction="x">
+          <div class="tabs scroll-tab" style="position: static; height: 100%; width: 180vw!important;" >
+            <div class="item item-image" style="position: relative;  margin-top: 6vh; margin-right: 3vw;">
+              <span ng-click="doRefreshBurger()">
+                <img ng-src="img/icon_burger.png" style="width: 80%; height: 80%;"/>
+              </span>
+            </div>
+            <div class="item item-image" style="position: relative;  margin-top: 6vh; margin-right: 2vh;">
+              <span ng-click="doRefreshSalade()">
+                <img ng-src="img/icon_salade.png" style="width: 80%; height: 80%;"/>
+              </span>
+            </div>
+            <div class="item item-image" style="position: relative;  margin-top: 6vh; margin-right: 2vh;">
+              <span ng-click="doRefreshAccompagnement()">
+                <img ng-src="img/icon_accompagnement.png" style="width: 80%; height: 80%;"/>
+              </span>
+            </div>
+            <div class="item item-image" style="position: relative;  margin-top: 6vh; margin-right: 2vh;">
+              <span ng-click="doRefreshSauce()">
+                <img ng-src="img/icon_sauce.png" style="width: 80%; height: 80%;"/>
+              </span>
+            </div>
+            <div class="item item-image" style="position: relative;  margin-top: 6vh; margin-right: 2vh;">
+              <span ng-click="doRefreshDessert()">
+                <img ng-src="img/icon_dessert.png" style="width: 80%; height: 80%;"/>
+              </span>
+            </div>
+            <div class="item item-image" style="position: relative;  margin-top: 6vh; margin-right: 2vh;">
+              <span ng-click="doRefreshPatisserie()">
+                <img ng-src="img/icon_patisserie.png" style="width: 80%; height: 80%;"/>
+              </span>
+            </div>
+            <div class="item item-image" style="position: relative;  margin-top: 6vh; margin-right: 2vh;">
+              <span ng-click="doRefreshBoisson()">
+                <img ng-src="img/icon_boisson.png" style="width: 80%; height: 80%;"/>
+              </span>
+            </div>
+            <div class="item item-image" style="position: relative;  margin-top: 6vh; margin-right: 2vh;">
+              <span ng-click="doRefreshBoissonChaude()">
+                <img ng-src="img/icon_boisson_chaude.png" style="width: 80%; height: 80%;"/>
+              </span>
+            </div>
+            <div class="item item-image" style="position: relative;  margin-top: 6vh;">
+              <span ng-click="doRefreshFingerfood()">
+                <img ng-src="img/icon_ptefaim.jpg" style="width: 80%; height: 80%;"/>
+              </span>
+            </div>
+          </div>
+        </ion-scroll>
+      </div>
+
+      <ion-content style="margin-bottom: 15vh; margin-top: 20%">
+        <div ng-repeat="product in products" style="display: inline-block; width: 45vw; margin-left: 3.33vw;">
+          <div class="item item-image" style="position:relative; border-bottom-color: transparent!important; border-color: white;" ng-click="addProduct(product)">
+            <img ng-src="{{product.image}}" style="width: 100%; height: 100%;">
+          </div>
+          <div class="item border-color" style="padding-bottom: 0; padding-top: 0;">
+            <p style="font-size: 2.5vw;">Sucres rapides : {{product.sucre_rapide}}</p>
+            <p style="font-size: 2.5vw;">Sucres lents : {{product.sucre_lent}}</p>
+          </div>
+          <div class="item ui-gradient-deepblue border-color">
+            <h1 class="title white-color sans-pro-light" style="font-size: 5vw;">{{product.title}}</h1>
+          </div>
+        </div>
+      </ion-content>
+
+      <ion-footer-bar class="bar bar-positive bar-footer" style="height: 20vh!important; border-top: solid white 1px; background-color: white;">
+        <svg  height="100%" width="40%" >
+              <text x="25%" y="55%">Sucres rapides</text>
+              <text x="28%" y="65%">{{getTotalSr(cart)}}/{{user.selec_SR*multiplie}}g</text>
+        </svg>
+        <svg height="100%" width="40%" >
+         <text x="27%" y="55%">Sucres lents</text>
+         <text x="28%" y="65%">{{getTotalSl(cart)}}/{{user.selec_SL*multiplie}}g</text>
+       </svg>
+       <div class="button-bar button-bar-inline">
+        <button class="button" ng-click="setMultiplie(1)" ng-class="multiplie==1?'button-energized':'button-positive'">x1
+        </button>
+        <button class="button" ng-click="setMultiplie(1.5)" ng-class="multiplie==1.5?'button-energized':'button-positive'">x1,5
+        </button>
+        <button class="button" ng-click="setMultiplie(2)" ng-class="multiplie==2?'button-energized':'button-positive'">x2
+        </button>
+        <button class="button" ng-click="setMultiplie(3)" ng-class="multiplie==3?'button-energized':'button-positive'">x3
+        </button>
+      </div>
+    </ion-footer-bar>
+  </ion-view>
+

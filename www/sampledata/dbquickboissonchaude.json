@@ -1,0 +1,65 @@
+[
+    {
+        "id": 202,
+        "title": "Expresso",
+        "image": "sampledata/img/BoissonChaudes/quick/expresso.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 203,
+        "title": "Café Latte",
+        "image": "sampledata/img/BoissonChaudes/quick/cafelatte.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 9.7
+	},
+    {
+        "id": 204,
+        "title": "Café Latte Vanille",
+        "image": "sampledata/img/BoissonChaudes/quick/cafelatte.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 21.9
+	},
+    {
+        "id": 205,
+        "title": "Café Latte Caramel",
+        "image": "sampledata/img/BoissonChaudes/quick/cafelatte.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 22.1
+	},
+    {
+        "id": 206,
+        "title": "Thé",
+        "image": "sampledata/img/BoissonChaudes/quick/THE.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 207,
+        "title": "Chocolat Chaud",
+        "image": "sampledata/img/BoissonChaudes/quick/CHOCO.jpg",
+        "sucre_lent": 3.1,
+        "sucre_rapide": 28.7
+	},
+    {
+        "id": 208,
+        "title": "Café Long",
+        "image": "sampledata/img/BoissonChaudes/quick/CAFELONG.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 0.1
+	},
+    {
+        "id": 209,
+        "title": "Cappucino",
+        "image": "sampledata/img/BoissonChaudes/quick/CAPPUCINO.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 7.9
+	},
+    {
+        "id": 210,
+        "title": "Mocha",
+        "image": "sampledata/img/BoissonChaudes/quick/cafelatte.jpg",
+        "sucre_lent": 1.6,
+        "sucre_rapide": 16.2
+	}
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "id": 139,
+        "title": "Sauce Giant",
+        "image": "sampledata/img/Sauces/quick/Saucegiant.jpg",
+        "sucre_lent": 0.2,
+        "sucre_rapide": 0.5
+	},
+    {
+        "id": 140,
+        "title": "Sauce Andalouse",
+        "image": "sampledata/img/Sauces/quick/andalouse.jpg",
+        "sucre_lent": 0.5,
+        "sucre_rapide": 1.6
+	},
+    {
+        "id": 141,
+        "title": "Sauce Curry",
+        "image": "sampledata/img/Sauces/quick/sauce-curry.jpg",
+        "sucre_lent": 1,
+        "sucre_rapide": 1
+	},
+    {
+        "id": 142,
+        "title": "Ketchup",
+        "image": "sampledata/img/Sauces/quick/KETCHUP.jpg",
+        "sucre_lent": 1.2,
+        "sucre_rapide": 4.1
+	},
+    {
+        "id": 143,
+        "title": "Mayonnaise",
+        "image": "sampledata/img/Sauces/quick/mayo.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 0.1
+	},
+    {
+        "id": 144,
+        "title": "Sauce fromagère tomate basilic",
+        "image": "sampledata/img/Sauces/quick/tomate-basilic.png",
+        "sucre_lent": 5.8,
+        "sucre_rapide": 1.7
+	},
+    {
+        "id": 145,
+        "title": "Sauce Tartare",
+        "image": "sampledata/img/Sauces/quick/quickos.jpg",
+        "sucre_lent": 1,
+        "sucre_rapide": 3
+	},
+    {
+        "id": 146,
+        "title": "Sauce saveur olivé et citron",
+        "image": "sampledata/img/Sauces/quick/Saucesaveuroliveetcitron.jpg",
+        "sucre_lent": 0.3,
+        "sucre_rapide": 2.5
+	},
+    {
+        "id": 147,
+        "title": "Sauce saveur fromage blanc et ciboulette",
+        "image": "sampledata/img/Sauces/quick/Saucesaveurfromageblancetciboulette.jpg",
+        "sucre_lent": 2.7,
+        "sucre_rapide": 1.3
+	},
+    {
+        "id": 148,
+        "title": "Sauce au vinaigre balsamique",
+        "image": "sampledata/img/Sauces/quick/sauceauvinaigrebalsamique.jpg",
+        "sucre_lent": 2.5,
+        "sucre_rapide": 1.3
+	},
+    {
+        "id": 149,
+        "title": "Sauce Salsa",
+        "image": "sampledata/img/Sauces/quick/quickos.jpg",
+        "sucre_lent": 0.8,
+        "sucre_rapide": 4
+	},
+    {
+        "id": 150,
+        "title": "Sauce Barbecue",
+        "image": "sampledata/img/Sauces/quick/saucebarbecue.jpg",
+        "sucre_lent": 0.7,
+        "sucre_rapide": 6.3
+	}
+]

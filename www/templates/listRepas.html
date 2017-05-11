@@ -1,0 +1,49 @@
+ <button ng-click="goBack()" class="button button-clear button-deepblue-white"> 
+ 	<i class="white-color ion-arrow-left-c"></i> 
+ </button>  
+ <!-- we use a subheader component to show total and links to checkout and shop-->
+ <div class="bar bar-subheader bar-positive white-color">
+
+ 	<h4 class="title">{{cart.products.length }} items</h4>
+
+ </div>     
+
+ <ion-content class="has-header has-subheader has-footer">
+ 	<div class="item item-divider" ng-if="cart.products.length">faire glisser pour supprimer</div>
+ 	<div class="text-center" style="padding-top:40px;" ng-if="!cart.products.length">
+ 		<h2 class="sans-pro-light">Liste de repas vide</h2>
+ 	</div>
+
+    <!-- 
+      #IMPLEMENTATION-DETAIL:
+      we are using a swipeable list to give an interface to remove products 
+      from the cart. This is done by binding the "can-swipe" attribute of an
+      "ion-list" to true. 
+  -->  
+  <ion-list can-swipe="true">  
+  	<ion-item class="item item-avatar" ng-repeat="product in cart.products track by $index" >
+        <!-- 
+          #IMPLEMENTATION-DETAIL:
+          we are using our custom classes here.
+          see file scss/views.scss for implementation
+      -->
+      <img ng-src="{{product.image}}" alt="">
+      <h2 class="title white-cxolor">{{product.title}}</h2>
+      <p>SR : {{product.sucre_rapide}} g</p>
+      <p>SL : {{product.sucre_lent}} g</p>
+
+        <!--
+          #TIP: <ion-option-button> must be put into an <ion-item> and is visible only when our list is swiped. You can add more than one button here.
+      -->  
+      <ion-option-button class="button-assertive" ng-click="dropProduct($index)">Supprimer</ion-option-button>
+
+  </ion-item>
+</ion-list>
+</ion-content>
+<div class="row">
+    <div class="col col-20"></div>
+    <div class="col" ng-if="cart.products.length">
+      <button class="button button-large button-positive button-block" style="margin-top: 80vh;" ng-click="showPopupSession()" ui-sref="mealselect" menu-close>Valider le repas</button>
+    </div>
+    <div class="col col-20"></div>
+</div>

@@ -1,0 +1,26 @@
+ <ion-header-bar class="bar bar-deepblue bar-deepblue-borderbottom">
+ 	<button ui-sref="login" class="button button-clear button-deepblue-white">
+ 		<i class="white-color ion-arrow-left-c"></i>
+ 	</button>
+
+ 	<h2 class="title">Sléctionner votre repas</h2>
+ </ion-header-bar>
+ <ion-content class="has-header padding full-height text-center">
+ 	<button class="button button-large button-positive button-block" ui-sref="enseignes" style="margin-top: 10vw; margin-bottom: 10vw; background-color: white; color: black; font-size: 4.5vw; " ng-click="selection(user.matin_SR,user.matin_SL)">Petit déjeuner<br/>
+ 		Sucre Rapide :{{user.matin_SR}} / Sucre Lent :{{user.matin_SL}}
+ 	</button> 
+
+ 	<button class="button button-large button-positive button-block" ui-sref="enseignes" style="margin-bottom: 10vw; background-color: white; color: black; font-size: 4.5vw;" ng-click="selection(user.midi_SR,user.midi_SL)">Déjeuner<br/>
+ 		Sucre Rapide :{{user.midi_SR}} / Sucre Lent :{{user.midi_SL}}
+ 	</button> 
+
+ 	<button class="button button-large button-positive button-block" ui-sref="enseignes" style="margin-bottom: 10vw; background-color: white; color: black; font-size: 4.5vw;" ng-click="selection(user.gouter_SR,user.gouter_SL)">Goûter<br/>
+ 		Sucre Rapide :{{user.gouter_SR}} / Sucre Lent :{{user.gouter_SL}}
+ 	</button> 
+
+ 	<button class="button button-large button-positive button-block" ui-sref="enseignes" style="margin-bottom: 10vw; background-color: white; color: black; font-size: 4.5vw;" ng-click="selection(user.soir_SR,user.soir_SL)">Dîner<br/>
+ 		Sucre Rapide :{{user.soir_SR}} / Sucre Lent :{{user.soir_SL}}
+ 	</button> 
+
+ </ion-content>
+ 

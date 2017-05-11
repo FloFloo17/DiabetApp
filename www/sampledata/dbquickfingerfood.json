@@ -1,0 +1,58 @@
+[
+    {
+        "id": 131,
+        "title": "Chicken Dips X4",
+        "image": "sampledata/img/Fingerfoods/quick/ChickenDips4.jpg",
+        "sucre_lent": 12.1,
+        "sucre_rapide": 0.1
+	},
+    {
+        "id": 132,
+        "title": "Chicken Dips X7",
+        "image": "sampledata/img/Fingerfoods/quick/ChickenDips7.jpg",
+        "sucre_lent": 21.2,
+        "sucre_rapide": 0.2
+	},
+    {
+        "id": 133,
+        "title": "Chicken Wings X5",
+        "image": "sampledata/img/Fingerfoods/quick/chickenwings.jpg",
+        "sucre_lent": 0.4,
+        "sucre_rapide": 1.4
+	},
+    {
+        "id": 134,
+        "title": "Fish'N Dips X3",
+        "image": "sampledata/img/Fingerfoods/quick/Fishndipsnewx3.jpg",
+        "sucre_lent": 13,
+        "sucre_rapide": 0.4
+	},
+    {
+        "id": 135,
+        "title": "Fish'N Dips X7",
+        "image": "sampledata/img/Fingerfoods/quick/Fishndipsnewx7.jpg",
+        "sucre_lent": 30.3,
+        "sucre_rapide": 0.9
+	},
+    {
+        "id": 136,
+        "title": "Quick Box",
+        "image": "sampledata/img/Fingerfoods/quick/QuickBox.jpg",
+        "sucre_lent": 34.9,
+        "sucre_rapide": 2.6
+	},
+    {
+        "id": 137,
+        "title": "Cheesy Winter X3",
+        "image": "sampledata/img/Fingerfoods/quick/CheesyWinterx3.jpg",
+        "sucre_lent": 16.5,
+        "sucre_rapide": 0.7
+	},
+    {
+        "id": 138,
+        "title": "Cheesy Winter X10",
+        "image": "sampledata/img/Fingerfoods/quick/CheesyWinterx10.jpg",
+        "sucre_lent": 55.2,
+        "sucre_rapide": 2.2
+	}
+]

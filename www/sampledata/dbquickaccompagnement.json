@@ -1,0 +1,65 @@
+[
+    {
+        "id": 122,
+        "title": "Petite frite",
+        "image": "sampledata/img/Accompagnements/quick/petitefrite.jpg",
+        "sucre_lent": 29.3,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 123,
+        "title": "Moyenne frite",
+        "image": "sampledata/img/Accompagnements/quick/maxifrite.jpg",
+        "sucre_lent": 41,
+        "scure rapide": 0
+	},
+    {
+        "id": 124,
+        "title": "Grande frite",
+        "image": "sampledata/img/Accompagnements/quick/maxifrite.jpg",
+        "sucre_lent": 54.5,
+        "scure rapide": 0
+	},
+    {
+        "id": 125,
+        "title": "Petite rustique",
+        "image": "sampledata/img/Accompagnements/quick/rustique.jpg",
+        "sucre_lent": 24.7,
+        "scure rapide": 1
+	},
+    {
+        "id": 126,
+        "title": "Moyenne rustique",
+        "image": "sampledata/img/Accompagnements/quick/rustique.jpg",
+        "sucre_lent": 34.2,
+        "scure rapide": 1
+	},
+    {
+        "id": 127,
+        "title": "Grande rustique",
+        "image": "sampledata/img/Accompagnements/quick/rustique.jpg",
+        "sucre_lent": 50.9,
+        "scure rapide": 1
+	},
+    {
+        "id": 128,
+        "title": "Funny tomate",
+        "image": "sampledata/img/Accompagnements/quick/tomatoes.jpg",
+        "sucre_lent": 0,
+        "scure rapide": 4.2
+	},
+    {
+        "id": 129,
+        "title": "Funny carotte",
+        "image": "sampledata/img/Accompagnements/quick/funnycarottekiri.jpg",
+        "sucre_lent": 1.1,
+        "scure rapide": 1.4
+	},
+    {
+        "id": 130,
+        "title": "Kiri",
+        "image": "sampledata/img/Accompagnements/quick/funnycarottekiri.jpg",
+        "sucre_lent": 0,
+        "scure rapide": 0.3
+	}
+]

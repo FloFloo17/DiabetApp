@@ -1,0 +1,170 @@
+[
+    {
+        "id": 184,
+        "title": "Coca Cola 20cl",
+        "image": "sampledata/img/Boissons/quick/cocalogo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 6.7
+	},
+    {
+        "id": 178,
+        "title": "Coca Cola 35cl",
+        "image": "sampledata/img/Boissons/quick/cocalogo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 37.1
+	},
+    {
+        "id": 179,
+        "title": "Coca Cola 50cl",
+        "image": "sampledata/img/Boissons/quick/cocalogo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 53
+	},
+    {
+        "id": 185,
+        "title": "Coca Cola Light 20cl",
+        "image": "sampledata/img/Boissons/quick/cocalightlogo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 180,
+        "title": "Coca Cola Light 35cl",
+        "image": "sampledata/img/Boissons/quick/cocalightlogo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 181,
+        "title": "Coca Cola Light 50cl",
+        "image": "sampledata/img/Boissons/quick/cocalightlogo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 186,
+        "title": "Coca Cola Zero 20cl",
+        "image": "sampledata/img/Boissons/quick/cocazerologo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 182,
+        "title": "Coca Cola Zero 35cl",
+        "image": "sampledata/img/Boissons/quick/cocazerologo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 183,
+        "title": "Coca Cola Zero 50cl",
+        "image": "sampledata/img/Boissons/quick/cocazerologo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 187,
+        "title": "Vittel 33cl",
+        "image": "sampledata/img/Boissons/quick/vittel.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 188,
+        "title": "San Pelegrino 50cl",
+        "image": "sampledata/img/Boissons/quick/SanPellegrino.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 0
+	},
+    {
+        "id": 189,
+        "title": "Bière Heineken 33cl",
+        "image": "sampledata/img/Boissons/quick/QUICKOS.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 10.9
+	},
+    {
+        "id": 190,
+        "title": "Fanta Orange 20cl",
+        "image": "sampledata/img/Boissons/quick/fantalogo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 13.2
+	},
+    {
+        "id": 191,
+        "title": "Fanta Orange 35cl",
+        "image": "sampledata/img/Boissons/quick/fantalogo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 23.1
+	},
+    {
+        "id": 192,
+        "title": "Fanta Orange 50cl",
+        "image": "sampledata/img/Boissons/quick/fantalogo.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 33
+	},
+    {
+        "id": 193,
+        "title": "Sprite 20cl",
+        "image": "sampledata/img/Boissons/quick/spritelogo.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 13.2
+	},
+    {
+        "id": 194,
+        "title": "Sprite 35cl",
+        "image": "sampledata/img/Boissons/quick/spritelogo.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 23.1
+	},
+    {
+        "id": 195,
+        "title": "Sprite 50cl",
+        "image": "sampledata/img/Boissons/quick/spritelogo.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 33
+	},
+    {
+        "id": 196,
+        "title": "Nestea Pêche Blanche 20cl",
+        "image": "sampledata/img/Boissons/quick/nestealogo.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 9
+	},
+    {
+        "id": 197,
+        "title": "Nestea Pêche Blanche 35cl",
+        "image": "sampledata/img/Boissons/quick/nestealogo.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 15.8
+	},
+    {
+        "id": 198,
+        "title": "Nestea Pêche Blanche 50cl",
+        "image": "sampledata/img/Boissons/quick/nestealogo.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 22.5
+	},
+    {
+        "id": 199,
+        "title": "Minut Maid Canette 33cl",
+        "image": "sampledata/img/Boissons/quick/Minutemaidecanette.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 29
+	},
+    {
+        "id": 200,
+        "title": "Minut Maid Orange Brique 20cl",
+        "image": "sampledata/img/Boissons/quick/minutmaidoragnebrick20cl.png",
+        "sucre_lent": 0.4,
+        "sucre_rapide": 17.6
+	},
+    {
+        "id": 201,
+        "title": "Minut Maid Pomme Brique 20cl",
+        "image": "sampledata/img/Boissons/quick/minutmaidpommebrick20cl.png",
+        "sucre_lent": 1.2,
+        "sucre_rapide": 20.2
+	}
+	]

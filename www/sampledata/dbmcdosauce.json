@@ -1,0 +1,86 @@
+[
+	{
+		"id" : 83,
+		"title" : "Sauce caesar",
+		"image" : "sampledata/img/Sauces/mcdo/caesar.png",
+		"sucre_rapide" : 2,
+		"sucre_lent" : 4
+	},
+	{
+		"id" : 84,
+		"title" : "Vinaigrette Huile Noisette",
+		"image" : "sampledata/img/Sauces/mcdo/huilenoisette.png",
+		"sucre_rapide" : 1,
+		"sucre_lent" : 1
+	},
+	{
+		"id" : 85,
+		"title" : "Vinaigrette Huile Olive Balsamique",
+		"image" : "sampledata/img/Sauces/mcdo/huileolivebalsamique.png",
+		"sucre_rapide" : 0.7,
+		"sucre_lent" : 0.1
+	},
+	{
+		"id" : 86,
+		"title" : "Sauce Allegee",
+		"image" : "sampledata/img/Sauces/mcdo/allegee.png",
+		"sucre_rapide" : 1.1,
+		"sucre_lent" : 0.7
+	},
+	{
+		"id" : 87,
+		"title" : "Sauce curry",
+		"image" : "sampledata/img/Sauces/mcdo/curry.png",
+		"sucre_rapide" : 10,
+		"sucre_lent" : 1
+	},
+	{
+		"id" : 88,
+		"title" : "Sauce chinoise",
+		"image" : "sampledata/img/Sauces/mcdo/chinoise.png",
+		"sucre_rapide" : 11,
+		"sucre_lent" : 1
+	},
+	{
+		"id" : 89,
+		"title" : "Sauce Barbecue",
+		"image" : "sampledata/img/Sauces/mcdo/barbecue.png",
+		"sucre_rapide" : 9,
+		"sucre_lent" : 1
+	},
+	{
+		"id" : 90,
+		"title" : "Sauce caesar",
+		"image" : "sampledata/img/Sauces/mcdo/caesar.png",
+		"sucre_rapide" : 2,
+		"sucre_lent" : 4
+	},
+	{
+		"id" : 91,
+		"title" : "Sauce moutarde",
+		"image" : "sampledata/img/Sauces/mcdo/moutarde.png",
+		"sucre_rapide" : 5.3,
+		"sucre_lent" : 1.7
+	},
+	{
+		"id" : 92,
+		"title" : "Sauce creamy deluxe",
+		"image" : "sampledata/img/Sauces/mcdo/creamy.png",
+		"sucre_rapide" : 0.3,
+		"sucre_lent" : 0.5
+	},
+	{
+		"id" : 93,
+		"title" : "Sauce Pomme Frite",
+		"image" : "sampledata/img/Sauces/mcdo/pommefrite.png",
+		"sucre_rapide" : 1.1,
+		"sucre_lent" : 0.6
+	},
+	{
+		"id" : 94,
+		"title" : "Sauce ketchup",
+		"image" : "sampledata/img/Sauces/mcdo/ketchup.png",
+		"sucre_rapide" : 2.4,
+		"sucre_lent" : 0.5
+	}
+]

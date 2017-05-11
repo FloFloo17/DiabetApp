@@ -1,0 +1,87 @@
+[
+    {
+        "id": 100,
+        "title": "Giant Max",
+        "image": "sampledata/img/Burgers/quick/giant-max.png",
+        "sucre_lent": 34.9,
+        "sucre_rapide": 5.7
+	},
+    {
+        "id": 101,
+        "title": "Cheeseburger",
+        "image": "sampledata/img/Burgers/quick/CheeseBurger.png",
+        "sucre_lent": 20.2,
+        "sucre_rapide": 7.8
+
+	},
+    {
+        "id": 102,
+        "title": "Giant",
+        "image": "sampledata/img/Burgers/quick/Giant.png",
+        "sucre_lent": 19.7,
+        "sucre_rapide": 4.8
+	},
+    {
+        "id": 103,
+        "title": "Long Bacon",
+        "image": "sampledata/img/Burgers/quick/longbacon.png",
+        "sucre_lent": 27.1,
+        "sucre_rapide": 9.3
+	},
+    {
+        "id": 104,
+        "title": "Suprême Fromager Raclette",
+        "image": "sampledata/img/Burgers/quick/burger-raclette.png",
+        "sucre_lent": 40.8,
+        "sucre_rapide": 3.6
+	},
+    {
+        "id": 105,
+        "title": "Suprême Fromager Chèvre",
+        "image": "sampledata/img/Burgers/quick/burger-chevre.png",
+        "sucre_lent": 41.2,
+        "sucre_rapide": 4.2
+	},
+    {
+        "id": 106,
+        "title": "Suprême Chicken Barbecue Bacon",
+        "image": "sampledata/img/Burgers/quick/chickenbarbecuebacon.png",
+        "sucre_lent": 67.8,
+        "sucre_rapide": 8.2
+	},
+    {
+        "id": 107,
+        "title": "Burger sauce à la vache qui rit",
+        "image": "sampledata/img/Burgers/quick/burger-vache-qui-rit.png",
+        "sucre_lent": 20.7,
+        "sucre_rapide": 4.8
+	},
+    {
+        "id": 108,
+        "title": "Quick N'Toast",
+        "image": "sampledata/img/Burgers/quick/quickandtoast.png",
+        "sucre_lent": 36.7,
+        "sucre_rapide": 5
+	},
+    {
+        "id": 109,
+        "title": "Suprême Bacon",
+        "image": "sampledata/img/Burgers/quick/supremebacon.png",
+        "sucre_lent": 46.6,
+        "sucre_rapide": 7.1
+	},
+    {
+        "id": 110,
+        "title": "Long Chicken",
+        "image": "sampledata/img/Burgers/quick/LongChicken.png",
+        "sucre_lent": 40.8,
+        "sucre_rapide": 4.9
+	},
+    {
+        "id": 111,
+        "title": "Long Fish",
+        "image": "sampledata/img/Burgers/quick/longfish.png",
+        "sucre_lent": 38.6,
+        "sucre_rapide": 4.6
+	}
+	]

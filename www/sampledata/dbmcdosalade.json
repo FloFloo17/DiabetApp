@@ -1,0 +1,16 @@
+[
+	{
+		"id" : 25,
+		"title" : "Chicken Caesar",
+		"image" : "sampledata/img/Salades/mcdo/chickencaesar.png",
+		"sucre_rapide" : 3,
+		"sucre_lent" : 15
+	},
+	{
+		"id" : 26,
+		"title" : "Italian Mozza",
+		"image" : "sampledata/img/Salades/mcdo/italianmozza.png",
+		"sucre_rapide" : 8,
+		"sucre_lent" : 45
+	}
+]

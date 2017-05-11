@@ -1,0 +1,37 @@
+[
+	{
+		"id" : 95,
+		"title" : "Petite frite",
+		"image" : "sampledata/img/Accompagnements/mcdo/frite.png",
+		"sucre_rapide" : 0.3,
+		"sucre_lent" : 28.7
+	},
+	{
+		"id" : 96,
+		"title" : "Moyenn frite",
+		"image" : "sampledata/img/Accompagnements/mcdo/frite.png",
+		"sucre_rapide" : 0.4,
+		"sucre_lent" : 41.6
+	},
+	{
+		"id" : 97,
+		"title" : "Grande frite",
+		"image" : "sampledata/img/Accompagnements/mcdo/frite.png",
+		"sucre_rapide" : 0.5,
+		"sucre_lent" : 54.5
+	},
+	{
+		"id" : 98,
+		"title" : "Moyenne potatoes",
+		"image" : "sampledata/img/Accompagnements/mcdo/potatoes.png",
+		"sucre_rapide" : 0.3,
+		"sucre_lent" : 27.7
+	},
+	{
+		"id" : 99,
+		"title" : "Grande potatoes",
+		"image" : "sampledata/img/Accompagnements/mcdo/potatoes.png",
+		"sucre_rapide" : 0.5,
+		"sucre_lent" : 39.5
+	}
+]

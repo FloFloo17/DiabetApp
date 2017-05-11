@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "title" : "MacDonald",
+        "image" : "sampledata/img/enseignes/macdo.png"
+    },
+    {
+        "id" : 2,
+        "title" : "Quick",
+        "image" : "sampledata/img/enseignes/quick.png"
+    },
+    {
+        "id" : 3,
+        "title" : "KFC",
+        "image" : "sampledata/img/enseignes/kfc.png"
+    }
+]
+

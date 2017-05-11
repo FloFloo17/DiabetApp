@@ -1,0 +1,12 @@
+{
+	"theTeam": [{
+		"teamId": "1",
+		"status": "pending"
+	}, {
+		"teamId": "2",
+		"status": "member"
+	}, {
+		"teamId": "3",
+		"status": "member"
+	}]
+}

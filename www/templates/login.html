@@ -1,0 +1,67 @@
+  <ion-header-bar class="bar bar-deepblue bar-deepblue-borderbottom">
+    <button ui-sref="start" class="button button-clear button-deepblue-white"><i class="white-color ion-arrow-left-c"></i></button>
+    <h2 class="title">Profil</h2>
+  </ion-header-bar>
+
+  <ion-content class="has-header padding full-height text-center">
+
+    <h3 class="sans-pro-light">Entrez votre protocole de repas</h3>
+
+    <form class="list">
+      <ion-item class="item-divider">
+        <div class="row" >Petit déjeuner
+        </div>
+      </ion-item>
+      <label class="item item-input">
+        <span class="input-label">Sucre Rapide :</span>
+        <input type="number" ng-model="user.matin_SR" placeholder="en g">
+       </label>
+      <label class="item item-input">
+        <span class="input-label">Sucre Lent :</span>
+        <input type="number" ng-model="user.matin_SL" placeholder="en g">
+       </label>
+    </form>
+    <form class="list">
+      <ion-item class="item-divider">
+        <div class="row" >Déjeuner
+        </div>
+      </ion-item>
+      <label class="item item-input">
+        <span class="input-label">Sucre Rapide :</span>
+        <input type="number" ng-model="user.midi_SR" placeholder="en g">
+       </label>
+      <label class="item item-input">
+        <span class="input-label">Sucre Lent :</span>
+        <input type="number" ng-model="user.midi_SL" placeholder="en g">
+       </label>
+    </form>
+    <form class="list">
+      <ion-item class="item-divider">
+        <div class="row" >Goûter
+        </div>
+      </ion-item>
+      <label class="item item-input" >
+        <span class="input-label">Sucre Rapide :</span>
+        <input type="number" ng-model="user.gouter_SR" placeholder="en g">
+       </label>
+      <label class="item item-input">
+        <span class="input-label">Sucre Lent :</span>
+        <input type="number" ng-model="user.gouter_SL" placeholder="en g">
+       </label>
+    </form>
+    <form class="list">
+      <ion-item class="item-divider">
+        <div class="row" >Diner
+        </div>
+      </ion-item>
+      <label class="item item-input">
+        <span class="input-label">Sucre Rapide :</span>
+        <input type="number" ng-model="user.soir_SR" placeholder="en g">
+       </label>
+      <label class="item item-input">
+        <span class="input-label">Sucre Lent :</span>
+        <input type="number" ng-model="user.soir_SL" placeholder="en g">
+       </label>
+    </form>
+    <button class="button button-large button-positive button-block" ng-click="saveUser(user)" ui-sref="mealselect">Valider</button> 
+</ion-content>

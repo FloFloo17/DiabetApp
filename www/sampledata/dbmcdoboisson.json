@@ -1,0 +1,142 @@
+[
+	{
+		"id" : 27,
+		"title" : "Coca Cola Zero",
+		"image" : "sampledata/img/Boissons/mcdo/coca.png",
+		"sucre_rapide" : 0,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 28,
+		"title" : "Coca Cola Light",
+		"image" : "sampledata/img/Boissons/mcdo/coca.png",
+		"sucre_rapide" : 0,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 29,
+		"title" : "Evian",
+		"image" : "sampledata/img/Boissons/mcdo/evian.png",
+		"sucre_rapide" : 0,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 30,
+		"title" : "Badoit",
+		"image" : "sampledata/img/Boissons/mcdo/badoit.png",
+		"sucre_rapide" : 0,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 31,
+		"title" : "Coca Cola 25cl",
+		"image" : "sampledata/img/Boissons/mcdo/coca.png",
+		"sucre_rapide" : 27,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 32,
+		"title" : "Ice Tea 25cl",
+		"image" : "sampledata/img/Boissons/mcdo/icetea.png",
+		"sucre_rapide" : 17,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 33,
+		"title" : "Sprite 25cl",
+		"image" : "sampledata/img/Boissons/mcdo/sprite.png",
+		"sucre_rapide" : 17,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 34,
+		"title" : "Minute Maid Orange 20cl",
+		"image" : "sampledata/img/Boissons/mcdo/minutemaidorange.png",
+		"sucre_rapide" : 17,
+		"sucre_lent" : 1
+	},
+	{
+		"id" : 35,
+		"title" : "Jus de Pomme Bio",
+		"image" : "sampledata/img/Boissons/mcdo/juspommebio.png",
+		"sucre_rapide" : 24,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 36,
+		"title" : "Fanta Orange 25cl",
+		"image" : "sampledata/img/Boissons/mcdo/fantaorange.png",
+		"sucre_rapide" : 17,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 37,
+		"title" : "Coca Cola 40cl",
+		"image" : "sampledata/img/Boissons/mcdo/coca.png",
+		"sucre_rapide" : 42,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 38,
+		"title" : "Coca Cola 50cl",
+		"image" : "sampledata/img/Boissons/mcdo/coca.png",
+		"sucre_rapide" : 53,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 39,
+		"title" : "Ice Tea 40cl",
+		"image" : "sampledata/img/Boissons/mcdo/icetea.png",
+		"sucre_rapide" : 26,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 40,
+		"title" : "Ice Tea 50cl",
+		"image" : "sampledata/img/Boissons/mcdo/icetea.png",
+		"sucre_rapide" : 33,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 41,
+		"title" : "Sprite 40cl",
+		"image" : "sampledata/img/Boissons/mcdo/sprite.png",
+		"sucre_rapide" : 36,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 42,
+		"title" : "Sprite 50cl",
+		"image" : "sampledata/img/Boissons/mcdo/sprite.png",
+		"sucre_rapide" : 46,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 43,
+		"title" : "Minute Maid Orange 30cl",
+		"image" : "sampledata/img/Boissons/mcdo/minutemaidorange.png",
+		"sucre_rapide" : 26,
+		"sucre_lent" : 2
+	},
+	{
+		"id" : 44,
+		"title" : "Minute Maid Orange 47cl",
+		"image" : "sampledata/img/Boissons/mcdo/minutemaidorange.png",
+		"sucre_rapide" : 43,
+		"sucre_lent" : 3
+	},
+	{
+		"id" : 45,
+		"title" : "Fanta Orange 40cl",
+		"image" : "sampledata/img/Boissons/mcdo/fantaorange.png",
+		"sucre_rapide" : 38,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 46,
+		"title" : "Fanta Orange 50cl",
+		"image" : "sampledata/img/Boissons/mcdo/fantaorange.png",
+		"sucre_rapide" : 48,
+		"sucre_lent" : 0
+	}
+]

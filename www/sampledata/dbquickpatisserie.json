@@ -1,0 +1,65 @@
+[
+    {
+        "id": 151,
+        "title": "Fondant au chocolat",
+        "image": "sampledata/img/Patisseries/quick/fondant_chocolat.jpg",
+        "sucre_lent": 3.9,
+        "sucre_rapide": 24.1
+	},
+    {
+        "id": 152,
+        "title": "Coeurs de beignets chocolat",
+        "image": "sampledata/img/Patisseries/quick/bel_trio_beignet.jpg",
+        "sucre_lent": 19.7,
+        "sucre_rapide": 17.9
+	},
+    {
+        "id": 153,
+        "title": "Churros X5",
+        "image": "sampledata/img/Patisseries/quick/Churros.jpg",
+        "sucre_lent": 36,
+        "sucre_rapide": 2
+	},
+    {
+        "id": 154,
+        "title": "Churros X10",
+        "image": "sampledata/img/Patisseries/quick/churros10.jpg",
+        "sucre_lent": 72,
+        "sucre_rapide": 4
+	},
+    {
+        "id": 155,
+        "title": "Crêpe nature X3",
+        "image": "sampledata/img/Patisseries/quick/Crêpenaturex3.jpg",
+        "sucre_lent": 6.8,
+        "sucre_rapide": 8
+	},
+    {
+        "id": 156,
+        "title": "Crêpe confiture X3",
+        "image": "sampledata/img/Patisseries/quick/crepeconfiture.jpg",
+        "sucre_lent": 7.9,
+        "sucre_rapide": 15.8
+	},
+    {
+        "id": 157,
+        "title": "Crêpe pâte à tartiner X3",
+        "image": "sampledata/img/Patisseries/quick/Crepechoco.jpg",
+        "sucre_lent": 7.6,
+        "sucre_rapide": 17
+	},
+    {
+        "id": 158,
+        "title": "Lemon' Ice",
+        "image": "sampledata/img/Patisseries/quick/LemonIce.jpg",
+        "sucre_lent": 12.2,
+        "sucre_rapide": 28.4
+	},
+    {
+        "id": 159,
+        "title": "Cookie Noix Noisette Chocolat au lait",
+        "image": "sampledata/img/Patisseries/quick/CookieNoixNoisetteChocolataulait.jpg",
+        "sucre_lent": 16.2,
+        "sucre_rapide": 21
+	}
+]

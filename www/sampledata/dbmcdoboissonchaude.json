@@ -1,0 +1,65 @@
+[
+	{
+		"id" : 47,
+		"title" : "Expresso",
+		"image" : "sampledata/img/BoissonChaudes/mcdo/expresso.png",
+		"sucre_rapide" : 0,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 48,
+		"title" : "Ristretto",
+		"image" : "sampledata/img/BoissonChaudes/mcdo/ristretto.png",
+		"sucre_rapide" : 0,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 49,
+		"title" : "Grand Cafe",
+		"image" : "sampledata/img/BoissonChaudes/mcdo/grandcafe.png",
+		"sucre_rapide" : 0,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 50,
+		"title" : "Noisette",
+		"image" : "sampledata/img/BoissonChaudes/mcdo/noisette.png",
+		"sucre_rapide" : 1,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 51,
+		"title" : "Grand Latte",
+		"image" : "sampledata/img/BoissonChaudes/mcdo/grandlatte.png",
+		"sucre_rapide" : 7,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 52,
+		"title" : "Cappuccino Daim",
+		"image" : "sampledata/img/BoissonChaudes/mcdo/cappuccinodaim.png",
+		"sucre_rapide" : 6,
+		"sucre_lent" : 6
+	},
+	{
+		"id" : 53,
+		"title" : "Banania Chaud",
+		"image" : "sampledata/img/BoissonChaudes/mcdo/bananiachaud.png",
+		"sucre_rapide" : 10,
+		"sucre_lent" : 17
+	},
+	{
+		"id" : 54,
+		"title" : "The",
+		"image" : "sampledata/img/BoissonChaudes/mcdo/the.png",
+		"sucre_rapide" : 0,
+		"sucre_lent" : 0
+	},
+	{
+		"id" : 55,
+		"title" : "Cappuccino",
+		"image" : "sampledata/img/BoissonChaudes/mcdo/cappuccino.png",
+		"sucre_rapide" : 8,
+		"sucre_lent" : 0
+	}
+]

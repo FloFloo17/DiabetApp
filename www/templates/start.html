@@ -1,0 +1,29 @@
+<!--
+  #TIP: in this case we hide the navbar provided by navigation system.
+-->
+<ion-view hide-nav-bar="true">
+
+    <!--
+      #IMPLEMENTATION-DETAIL:
+      we are wrapping the login button in an ionic grid in order
+      to keep it centered and quite large
+    -->
+      
+
+    <div class="row">
+      <div class="col col-20"></div>
+      <div class="col text-center" style="margin-top: 15vh;">
+        <img ng-src="img/Logo_diabète.png" style="width: 50vw; height: 50vw;">
+        <button class="button button-large button-positive button-block" style="margin-top: 15vh;" ui-sref="login">Profil</button>        
+      </div>
+      <div class="col col-20"></div>
+    </div>
+
+  <!--
+   We put a link to signup screen in footer bar.
+ -->
+<!--   <ion-footer-bar ui-sref="signup" class="bar bar-positive bar-deepblue-bordertop pointer">
+    <h1 class="title sans-pro-light">Signup here</h1>
+  </ion-footer-bar> -->
+
+</ion-view>

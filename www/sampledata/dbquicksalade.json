@@ -1,0 +1,72 @@
+[
+    {
+        "id": 112,
+        "title": "La petite salade",
+        "image": "sampledata/img/Salades/quick/petitesalade.jpg",
+        "sucre_lent": 1.2,
+        "sucre_rapide": 0.2
+	},
+    {
+        "id": 113,
+        "title": "La Gourmande Chicken dips",
+        "image": "sampledata/img/Salades/quick/GourmandeChickenDips.jpg",
+        "sucre_lent": 39.7,
+        "sucre_rapide": 1.7
+	},
+    {
+        "id": 114,
+        "title": "Gourmande avec morceaux de filet de poulet rôti",
+        "image": "sampledata/img/Salades/quick/Gourmandeavecmorceaudefiletdepouletroti.jpg",
+        "sucre_lent": 27.7,
+        "sucre_rapide": 2.7
+	},
+    {
+        "id": 115,
+        "title": "Gourmande Fish N'dips",
+        "image": "sampledata/img/Salades/quick/GourmandeavecFishndips.jpg",
+        "sucre_lent": 39.8,
+        "sucre_rapide": 2
+	},
+    {
+        "id": 116,
+        "title": "L'irrésistible Chicken Dips",
+        "image": "sampledata/img/Salades/quick/IrrsistibleavecChickendips.jpg",
+        "sucre_lent": 16.3,
+        "sucre_rapide": 8.1
+	},
+    {
+        "id": 117,
+        "title": "Lirrésistible avec morceaux de filet de poulet rôti",
+        "image": "sampledata/img/Salades/quick/Irresistibleavecmorceauxdefiletdepouletroti.jpg",
+        "sucre_lent": 4.3,
+        "sucre_rapide": 9
+	},
+    {
+        "id": 118,
+        "title": "L'irrésistible avec Fish N'Dips",
+        "image": "sampledata/img/Salades/quick/IrresistibleavecFishndips.jpg",
+        "sucre_lent": 16.4,
+        "sucre_rapide": 8.3
+	},
+    {
+        "id": 119,
+        "title": "La savoureuse Chicken Dips",
+        "image": "sampledata/img/Salades/quick/lasavoureusechickendips.jpg",
+        "sucre_lent": 25,
+        "sucre_rapide": 1
+	},
+    {
+        "id": 120,
+        "title": "La Savoureuse morceaux de filet de poulet rôti",
+        "image": "sampledata/img/Salades/quick/IrresistibleavecFishndips.jpg",
+        "sucre_lent": 12.5,
+        "sucre_rapide": 2
+	},
+    {
+        "id": 121,
+        "title": "La Savoureuse Fish N'Dips",
+        "image": "sampledata/img/Salades/quick/IrresistibleavecFishndips.jpg",
+        "sucre_lent": 22.9,
+        "sucre_rapide": 1.1
+	}
+	]

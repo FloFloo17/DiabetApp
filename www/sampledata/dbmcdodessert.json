@@ -1,0 +1,128 @@
+[
+	{
+		"id" : 58,
+		"title" : "Ice Squeeze",
+		"image" : "sampledata/img/Desserts/mcdo/icesqueeze.png",
+		"sucre_rapide" : 17,
+		"sucre_lent" : 1
+	},
+	{
+		"id" : 59,
+		"title" : "Sundae Chocolat",
+		"image" : "sampledata/img/Desserts/mcdo/sundae.png",
+		"sucre_rapide" : 42,
+		"sucre_lent" : 3
+	},
+	{
+		"id" : 60,
+		"title" : "Sundae Caramel",
+		"image" : "sampledata/img/Desserts/mcdo/Sundae.png",
+		"sucre_rapide" : 38,
+		"sucre_lent" : 15
+	},
+	{
+		"id" : 61,
+		"title" : "Sundae Nature",
+		"image" : "sampledata/img/Desserts/mcdo/Sundae.png",
+		"sucre_rapide" : 22.8,
+		"sucre_lent" : 2.6
+	},
+	{
+		"id" : 62,
+		"title" : "Mc Flurry Speculoos",
+		"image" : "sampledata/img/Desserts/mcdo/mcflurry.png",
+		"sucre_rapide" : 36,
+		"sucre_lent" : 7
+	},
+	{
+		"id" : 63,
+		"title" : "Mc Flurry KitKat",
+		"image" : "sampledata/img/Desserts/mcdo/mcflurry.png",
+		"sucre_rapide" : 40,
+		"sucre_lent" : 6
+	},
+	{
+		"id" : 64,
+		"title" : "Mc Flurry M&Ms",
+		"image" : "sampledata/img/Desserts/mcdo/mcflurry.png",
+		"sucre_rapide" : 44,
+		"sucre_lent" : 5
+	},
+	{
+		"id" : 65,
+		"title" : "Mc Flurry Chocolat blanc",
+		"image" : "sampledata/img/Desserts/mcdo/mcflurry.png",
+		"sucre_rapide" : 14,
+		"sucre_lent" : 4
+	},
+	{
+		"id" : 66,
+		"title" : "Mc Flurry Caramel",
+		"image" : "sampledata/img/Desserts/mcdo/mcflurry.png",
+		"sucre_rapide" : 17,
+		"sucre_lent" : 11
+	},
+	{
+		"id" : 67,
+		"title" : "Mc Flurry Chocolat",
+		"image" : "sampledata/img/Desserts/mcdo/mcflurry.png",
+		"sucre_rapide" : 19,
+		"sucre_lent" : 1
+	},
+	{
+		"id" : 68,
+		"title" : "Very Parfait Chocolat",
+		"image" : "sampledata/img/Desserts/mcdo/veryparfait.png",
+		"sucre_rapide" : 65,
+		"sucre_lent" : 6
+	},
+	{
+		"id" : 69,
+		"title" : "Very Parfait Caramel",
+		"image" : "sampledata/img/Desserts/mcdo/veryparfait.png",
+		"sucre_rapide" : 66,
+		"sucre_lent" : 20
+	},
+	{
+		"id" : 70,
+		"title" : "Very Parfait Chocolat Caramel",
+		"image" : "sampledata/img/Desserts/mcdo/veryparfait.png",
+		"sucre_rapide" : 59,
+		"sucre_lent" : 15
+	},
+	{
+		"id" : 71,
+		"title" : "Very Parfait Fruits Rouges",
+		"image" : "sampledata/img/Desserts/mcdo/veryparfait.png",
+		"sucre_rapide" : 38,
+		"sucre_lent" : 3
+	},
+	{
+		"id" : 72,
+		"title" : "Frappes Chocolat",
+		"image" : "sampledata/img/Desserts/mcdo/frappes.png",
+		"sucre_rapide" : 27,
+		"sucre_lent" : 6
+	},
+	{
+		"id" : 73,
+		"title" : "Frappes Myrtille",
+		"image" : "sampledata/img/Desserts/mcdo/frappes.png",
+		"sucre_rapide" : 30,
+		"sucre_lent" : 3
+	},
+	{
+		"id" : 74,
+		"title" : "Frappes Marshmallow",
+		"image" : "sampledata/img/Desserts/mcdo/frappes.png",
+		"sucre_rapide" : 27,
+		"sucre_lent" : 5
+	},
+	{
+		"id" : 75,
+		"title" : "Frappes Vanille",
+		"image" : "sampledata/img/Desserts/mcdo/frappes.png",
+		"sucre_rapide" : 30,
+		"sucre_lent" : 4
+	}
+]

@@ -1,0 +1,128 @@
+[
+    {
+        "id": 160,
+        "title": "Funny Pomme",
+        "image": "sampledata/img/Desserts/quick/FunnyPomme1.png",
+        "sucre_lent": 0,
+        "sucre_rapide": 6.7
+	},
+    {
+        "id": 161,
+        "title": "Yaourt yop à boire",
+        "image": "sampledata/img/Desserts/quick/yaourt_yop_a_boire.jpg",
+        "sucre_lent": 0.4,
+        "sucre_rapide": 19.8
+	},
+    {
+        "id": 162,
+        "title": "Mix Mania Lion",
+        "image": "sampledata/img/Desserts/quick/MIX_MANIA_LION_0110_SIMPLY.jpg",
+        "sucre_lent": 10.8,
+        "sucre_rapide": 41.9
+	},
+    {
+        "id": 163,
+        "title": "Cornet de glace",
+        "image": "sampledata/img/Desserts/quick/cornet_de_glace.jpg",
+        "sucre_lent": 7,
+        "sucre_rapide": 14.5
+	},
+    {
+        "id": 164,
+        "title": "Mini Yop",
+        "image": "sampledata/img/Desserts/quick/yaourt_yop_a_boire.jpg",
+        "sucre_lent": 0.2,
+        "sucre_rapide": 11
+	},
+    {
+        "id": 165,
+        "title": "Mix Mania Snikers",
+        "image": "sampledata/img/Desserts/quick/MIX_MANIA_SNICKERS_0130_SIMPLY.jpg",
+        "sucre_lent": 8.7,
+        "sucre_rapide": 44
+	},
+    {
+        "id": 166,
+        "title": "Funny Orange",
+        "image": "sampledata/img/Desserts/quick/02-funnyfruitorange.jpg",
+        "sucre_lent": 0,
+        "sucre_rapide": 6.7
+	},
+    {
+        "id": 167,
+        "title": "Milkshake Vanille",
+        "image": "sampledata/img/Desserts/quick/Shakevanille.png",
+        "sucre_lent": 5.3,
+        "sucre_rapide": 37
+	},
+    {
+        "id": 168,
+        "title": "Milkshake Fraise",
+        "image": "sampledata/img/Desserts/quick/Shakefraise.png",
+        "sucre_lent": 4.8,
+        "sucre_rapide": 37.4
+	},
+    {
+        "id": 169,
+        "title": "Milkshake Caramel",
+        "image": "sampledata/img/Desserts/quick/Milkshake_caramel.jpg",
+        "sucre_lent": 4.9,
+        "sucre_rapide": 37.4
+	},
+    {
+        "id": 170,
+        "title": "Milkshake Mangue",
+        "image": "sampledata/img/Desserts/quick/Milkshakemangue.jpg",
+        "sucre_lent": 5.2,
+        "sucre_rapide": 40
+	},
+    {
+        "id": 171,
+        "title": "Mix Mania Twix",
+        "image": "sampledata/img/Desserts/quick/MIX_MANIA_TWIX_0089_SIMPLY.jpg",
+        "sucre_lent": 11.3,
+        "sucre_rapide": 44.6
+	},
+    {
+        "id": 172,
+        "title": "Softy Fraise",
+        "image": "sampledata/img/Desserts/quick/SOFTY_FRAISE_0023_SIMPLY.jpg",
+        "sucre_lent": 4.6,
+        "sucre_rapide": 26.5
+	},
+    {
+        "id": 173,
+        "title": "Softy Caramel",
+        "image": "sampledata/img/Desserts/quick/SOFTY_CARAMEL_0048_SIMPLY.jpg",
+        "sucre_lent": 6.3,
+        "sucre_rapide": 30
+	},
+    {
+        "id": 174,
+        "title": "Softy Chocolat",
+        "image": "sampledata/img/Desserts/quick/SOFTY_CHOCOLAT_0069_SIMPLY.jpg",
+        "sucre_lent": 8.6,
+        "sucre_rapide": 27
+	},
+    {
+        "id": 175,
+        "title": "Mix Mania M&M'S Choco",
+        "image": "sampledata/img/Desserts/quick/M&M_MIXMANIA_DEF_rvb.png",
+        "sucre_lent": 12.4,
+        "sucre_rapide": 46
+	},
+    {
+        "id": 176,
+        "title": "Mix Mania Maltesers",
+        "image": "sampledata/img/Desserts/quick/mixmaniamaltesers.jpg",
+        "sucre_lent": 13.9,
+        "sucre_rapide": 40.1
+	},
+    {
+        "id": 177,
+        "title": "Andros Compote pomme sans sucre ajouté",
+        "image": "sampledata/img/Desserts/quick/QUICKOS.jpg",
+        "sucre_lent": 10,
+        "sucre_rapide": 10
+	}
+]

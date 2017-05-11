@@ -1,0 +1,44 @@
+[	
+	{
+		"id" : 56,
+		"title" : "Ptit Muffin Pepites Chocolat",
+		"image" : "sampledata/img/Desserts/mcdo/ptitmuffinpepiteschocolat.png",
+		"sucre_rapide" : 27,
+		"sucre_lent" : 18
+	},
+	{
+		"id" : 57,
+		"title" : "Ptit Muffin Myrtille",
+		"image" : "sampledata/img/Desserts/mcdo/ptitmuffinmyrtille.png",
+		"sucre_rapide" : 27,
+		"sucre_lent" : 20
+	},
+	{
+		"id" : 76,
+		"title" : "Donuts",
+		"image" : "sampledata/img/Desserts/mcdo/donuts.png",
+		"sucre_rapide" : 10,
+		"sucre_lent" : 19
+	},
+	{
+		"id" : 77,
+		"title" : "Donuts Chocolat",
+		"image" : "sampledata/img/Desserts/mcdo/donnutschocolat.png",
+		"sucre_rapide" : 15,
+		"sucre_lent" : 17
+	},
+	{
+		"id" : 78,
+		"title" : "Brownie Chocolat Noisette",
+		"image" : "sampledata/img/Desserts/mcdo/browniechocolatnoisette.png",
+		"sucre_rapide" : 13,
+		"sucre_lent" : 25
+	},
+	{
+		"id" : 79,
+		"title" : "Cookie chocolat noisette",
+		"image" : "sampledata/img/Desserts/mcdo/cookie.png",
+		"sucre_rapide" : 25,
+		"sucre_lent" : 20
+	}
+]
